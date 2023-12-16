@@ -44,6 +44,8 @@ To use the lung cancer prediction model, follow these steps:
 1. Load the saved model using the `loading_model` function.
 2. Upload an X-Ray image using the file upload widget.
 3. The model predicts the likelihood of lung cancer and displays the result.
+![image](https://github.com/aritradey-CS/Cancer-detection-app/assets/81703791/9604f720-acf9-4cf6-a407-e12d6ae2b9c9)
+![image](https://github.com/aritradey-CS/Cancer-detection-app/assets/81703791/03e0ace0-b494-4fcf-a886-4ec629250161)
 
 ## File Structure
 
