@@ -1,0 +1,30 @@
+Step 1. Pull all the data from the remote repository to your local repository using the command
+git pull
+
+Step 2. Create a new file to add to your git repository, for example, a README.md file, with the command
+touch README.md
+
+Step 3. Add the new file to your local git repository with the command git add README.md.
+git add README.md
+
+Step 4. Use the command git commit --date="5 day ago" -m "Your commit message" to make a commit that reflects the date you want to show.
+git commit --date="5 day ago" -m "Your commit message"
+
+Step 5. Push your local git commits to the remote repository with the command git push. This will update the remote repository with your changes, making them visible to others who are working on the project.
+git push
+
+Step 6.Connect these files to a Git repository and continue developing with branches
+git remote add origin https://gitlab.com/Harmelodic/MyNewProject.git
+
+Step 7. Remove a commit before push
+git reset HEAD~1
+
+
+Step 8. Create new branch
+git branch aritra-new-branch
+
+step 9. selecting newly created branch
+git checkout aritra-new-branch
+
+step 10. you will need this later (ReactJS)
+npm i sass

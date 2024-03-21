@@ -1,0 +1,23 @@
+Here are 21 GitHub repositories for every developers 👇🏻
+
+- Twitter Algorithms
+- Free Programming Books
+- Coding Interview University
+- Awesome
+- Developer Roadmap
+- Javascript Algorithms
+- Node Best Practices
+- Tech Interview Handbook
+- Project Based Learning
+- 30 Seconds of code
+- Free for dev
+- Javascript Questions
+- Design resources for developers
+- App Ideas
+- Build your own X
+- Realworld
+- Public Apis
+- System design primer
+- The art of command line
+- Tensorflow
+- the book of secret knowledge

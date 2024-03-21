@@ -1,0 +1,52 @@
+01. user Authentication and authorization application
+(learn the difference between authorization and authentication. They are two vital party of a  logic system. You'll learn user registration, store information to a server, etc)
+
+02. Buid an application that uses an API
+(API's are a crusial part of web development, learn to access data with a set of instructions and interact with external software components, microservices, etc)
+
+03.Build a chat Application
+(Learn data transfer in real-time, authentication, security and much more. A grerat way to exercise a full stack)
+
+An app where user can search for a particular emoji from a given list
+
+⭐ 𝘾𝙧𝙮𝙥𝙩𝙤 𝙏𝙧𝙖𝙘𝙠𝙚𝙧: I always add this project ideas because i have personally created this using coin gecko api.
+
+⭐ 𝙄𝙢𝙖𝙜𝙚 𝙂𝙖𝙡𝙡𝙚𝙧𝙮: Develop an image gallery with features like image upload, categorization, and filtering.
+
+⭐ 𝙀𝙭𝙥𝙚𝙣𝙨𝙚 𝙏𝙧𝙖𝙘𝙠𝙚𝙧: One of my favourite project idea to build which allows users to add, categorize, and track their expenses.
+
+⭐ 𝙋𝙤𝙡𝙡𝙞𝙣𝙜 𝘼𝙥𝙥: An app where multiple parties are listed and user can vote by clicking on it and it also track the count of votes for every option
+
+⭐ 𝙌𝙪𝙞𝙯 𝘼𝙥𝙥: This is an old project idea but very interesting to build where user have to answer MCQ based questions with tracking and displaying the score
+
+⭐ 𝙂𝙞𝙩𝙝𝙪𝙗 𝘼𝙋𝙄: Use GitHub API to build a profile finder app or an issue tracker, one of the project I want to build.
+
+3 Months Roadmap to learn web development 🔥
+
+First 3 Days : HTML 🌝
+
+Next 3 Days : CSS 😩
+
+Next 10 Days : Javascript 😎
+
+Next 3 Days : npm 🥸
+
+Next 4 Days : Git and Github 🔥
+
+Next 20 Days : React and Tailwind 🚀
+
+Next 15 Days : NodeJS 🤤
+
+Next 6 Days : PostgreSQL 🫡
+
+Next 5 Days : Restful APIs 🤗
+
+Next 4 Days : Redis and JWT Auth 🤫
+
+Next 7 Days : Linux Basics 😵‍💫
+
+Next 3 Days : Basic AWS Services (EC2, VPC, S3 etc) 🥵
+
+Next 2 Days : Github Actions 😃
+
+Next 5 Days : Ansible and Terraform 🤧

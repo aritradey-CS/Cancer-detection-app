@@ -1,0 +1,20 @@
+01) ToDo List
+02) Calculator
+03) Weather App
+04) Form with validation
+05) Landing page
+06) Website animation
+07) Clone UI
+____________________________
+08)Portfolio Website
+09)Chat Applicatio
+10)Dynamic dashboards
+11)Ecommerce site
+12)Music Player
+13)Quiz App
+14)Multi page website
+----------------------------
+15)Games
+16)Social Editor
+17)Animation Tools
+18)CRUD_Application

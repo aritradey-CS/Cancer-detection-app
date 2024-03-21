@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <script>
+        // let a = 34;
+        let e = "This is me";
+        let a = 654;
+        const b = 987;
+        // b = 98;
+        c = a + b;
+        console.log(c);
+        console.log(e);
+        console.log(b);
+        console.log(a);
+
+      //   Numbers
+      //   Objects
+      //   Booleans - True or false
+      //   Strings
+      //   Undefined
+      //   Null
+
+      // function hello(){
+      //     console.log("Hey Aritra!");
+      // }
+
+      let obj = {
+          r: 34,
+          m: 43,
+          func: function myfunc(number) {
+              console.log("The number is + number");
+          }
+      }
+
+      document.addEventListener("click", function click(){
+          console.log("clicked");
+          // alert("hello")
+          let conf = confirm("Are you sure?");
+          console.log(conf);
+      })
+
+      let arr = [65, 56, 89];
+      console.log(this);
+      {
+          // function myfunc(number)
+          // console.log("The number is" + this)
+      }
+      let mobj = {
+          a: this,
+          myfunc : function(number){
+              console.log(this);
+          }
+      }
+      mobj.myfunc();
+      console.log(mobj.a);
+      setTimeout(() => {
+         console.log("Alright the time has come!!!")
+      }, 3000);
+      console.log("This the script will run next or i'm the script of downground")
+    </script>
+  </head>
+  <body>
+    <h1>I am learning JS</h1>
+  </body>
+</html>

@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1,
+        "name": "Audi A3",
+        "image": "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1632&q=80",
+        "year": 2021,
+        "passengerCapacity": 4,
+        "mileage": "21 mpg",
+        "transmission": "Manual",
+        "fuelType": "Diesel",
+        "pricePerMonth": "$556",
+        "loveCount": 133
+    },
+    {
+        "id": 2,
+        "name": "Audi A4",
+        "image": "https://images.unsplash.com/photo-1563339018-51d1ef22f402?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+        "year": 2001,
+        "passengerCapacity": 3,
+        "mileage": "17 mpg",
+        "transmission": "Manual",
+        "fuelType": "Petrol",
+        "pricePerMonth": "$432",
+        "loveCount": 125
+    },
+    {
+        "id": 3,
+        "name": "Audi A3",
+        "image": "https://images.unsplash.com/photo-1623659248894-1a0272243054?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1505&q=80",
+        "year": 2010,
+        "passengerCapacity": 6,
+        "mileage": "15 mpg",
+        "transmission": "Automatic",
+        "fuelType": "Electric",
+        "pricePerMonth": "$365",
+        "loveCount": 115
+    },
+    {
+        "id": 4,
+        "name": "Mercedes-Benz G-Class",
+        "image": "https://images.unsplash.com/photo-1490902931801-d6f80ca94fe4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+        "year": 2022,
+        "passengerCapacity": 2,
+        "mileage": "20 mpg",
+        "transmission": "Automatic",
+        "fuelType": "Petrol",
+        "pricePerMonth": "$769",
+        "loveCount": 127
+    },
+    {
+        "id": 5,
+        "name": "Mercedes-Benz A-Class",
+        "image": "https://cdn.pixabay.com/photo/2017/03/27/14/56/auto-2179220_1280.jpg",
+        "year": 2001,
+        "passengerCapacity": 5,
+        "mileage": "29 mpg",
+        "transmission": "Manual",
+        "fuelType": "Petrol",
+        "pricePerMonth": "$698",
+        "loveCount": 177
+    },
+    {
+        "id": 59,
+        "name": "BMW M3",
+        "image": "https://images.unsplash.com/photo-1523983302122-73e869e1f850?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+        "year": 2008,
+        "passengerCapacity": 7,
+        "mileage": "23 mpg",
+        "transmission": "Manual",
+        "fuelType": "Diesel",
+        "pricePerMonth": "$356",
+        "loveCount": 195
+    },
+    {
+        "id": 60,
+        "name": "BMW i4",
+        "image": "https://images.unsplash.com/photo-1541443131876-44b03de101c5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+        "year": 2008,
+        "passengerCapacity": 7,
+        "mileage": "23 mpg",
+        "transmission": "Manual",
+        "fuelType": "Diesel",
+        "pricePerMonth": "$356",
+        "loveCount": 195
+    }
+]
